@@ -7,5 +7,5 @@ Features:
 - Dictionary-based symptom analysis
 - Safety suggestions
 
-Developed by: Drishti Yadav
+Developed by: Vanshika 
 Course: B.E. Computer Science
